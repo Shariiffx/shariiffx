@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharif</h1>
 <h3 align="center">A passionate Website developer and designer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/sharifinreallife" target="blank"><img src="https://img.shields.io/twitter/follow/sharifinreallife?logo=twitter&style=for-the-badge" alt="sharifinreallife" /></a> </p>
+<p align="left"> <a href="https://sharifinreallife.netlify.app" target="blank"><img src="https://img.shields.io/twitter/follow/sharifinreallife?logo=twitter&style=for-the-badge" alt="sharifinreallife" /></a> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **inventory management application**
 
-- 👨‍💻 All of my projects are available at [www.myselfsharif.site](www.myselfsharif.site)
+- 👨‍💻 All of my projects are available at github
 
 - 📝 I regularly write articles on [socials( Links not visible yet)](socials( Links not visible yet))
 
